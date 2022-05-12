@@ -23,6 +23,6 @@ Appliction is built using ES6 and babel because all modern application developem
 - Webapck
   - One of the fastest javascript module compilation and bundler tool available.
   - Works best with angularjs, jest and babel.
--Jest
-  -Widely using front-end unit testing framework.
-  -I know it better than Jasmine-Karma. :-)
+- Jest
+  - Widely using front-end unit testing framework.
+  - I know it better than Jasmine-Karma. :-)
