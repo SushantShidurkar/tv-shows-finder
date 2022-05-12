@@ -9,11 +9,14 @@
 - Application is responsive in nature.
 
 ## Steps to run the application:
-- Download the source code of the application.
-- Go to "tv-shows-finder" folder ,and run ```npm install``` command.
-- Once done, run ```npm run serve``` command and application will be available on http://localhost:8080.
-- To run unit tests run ```npm run test```.
 - Application has been built and tested on Node v14.17.0 and npm v6.14.13.
+### Project setup
+```npm install```
+### Compiles and hot-reloads for development
+```npm run serve```
+- Application will be available on http://localhost:8080
+### Run your unit tests
+```npm run test```
 
 ## Why to use angularjs and this technology stack?
 Appliction is built using ES6 and babel because all modern application developement are using it.
