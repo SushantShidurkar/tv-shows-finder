@@ -1,0 +1,608 @@
+[
+    {
+        "score": 1.0195403,
+        "show": {
+            "id": 82,
+            "url": "https://www.tvmaze.com/shows/82/game-of-thrones",
+            "name": "Game of Thrones",
+            "type": "Scripted",
+            "language": "English",
+            "genres": [
+                "Drama",
+                "Adventure",
+                "Fantasy"
+            ],
+            "status": "Ended",
+            "runtime": 60,
+            "averageRuntime": 61,
+            "premiered": "2011-04-17",
+            "ended": "2019-05-19",
+            "officialSite": "http://www.hbo.com/game-of-thrones",
+            "schedule": {
+                "time": "21:00",
+                "days": [
+                    "Sunday"
+                ]
+            },
+            "rating": {
+                "average": 9
+            },
+            "weight": 99,
+            "network": {
+                "id": 8,
+                "name": "HBO",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                },
+                "officialSite": "https://www.hbo.com/"
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": 24493,
+                "thetvdb": 121361,
+                "imdb": "tt0944947"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/190/476117.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/190/476117.jpg"
+            },
+            "summary": "<p>Based on the bestselling book series <i>A Song of Ice and Fire</i> by George R.R. Martin, this sprawling new HBO drama is set in a world where summers span decades and winters can last a lifetime. From the scheming south and the savage eastern lands, to the frozen north and ancient Wall that protects the realm from the mysterious darkness beyond, the powerful families of the Seven Kingdoms are locked in a battle for the Iron Throne. This is a story of duplicity and treachery, nobility and honor, conquest and triumph. In the <b>Game of Thrones</b>, you either win or you die.</p>",
+            "updated": 1646770498,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/82"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/1623968"
+                }
+            },
+            "$$hashKey": "object:1497"
+        }
+    },
+    {
+        "score": 0.99060667,
+        "show": {
+            "id": 52009,
+            "url": "https://www.tvmaze.com/shows/52009/game-of-talents",
+            "name": "Game of Talents",
+            "type": "Variety",
+            "language": "English",
+            "genres": [],
+            "status": "To Be Determined",
+            "runtime": 60,
+            "averageRuntime": 60,
+            "premiered": "2021-03-10",
+            "ended": null,
+            "officialSite": "https://www.fox.com/game-of-talents/",
+            "schedule": {
+                "time": "21:00",
+                "days": [
+                    "Wednesday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 53,
+            "network": {
+                "id": 4,
+                "name": "FOX",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                },
+                "officialSite": "https://www.fox.com/"
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": null,
+                "imdb": null
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/298/746461.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/298/746461.jpg"
+            },
+            "summary": "<p><b>Game of Talents</b> pits two teams of contestants against each other as they attempt to figure out the surprising – and sometimes bizarre – hidden talents of the mystery performers. With more than $200,000 on the line, can the contestants spot the fire dancer from the spider wrangler or the chainsaw juggler from the contortionist?</p>",
+            "updated": 1626937406,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/52009"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/2084850"
+                }
+            },
+            "$$hashKey": "object:1498"
+        }
+    },
+    {
+        "score": 0.9877525,
+        "show": {
+            "id": 10170,
+            "url": "https://www.tvmaze.com/shows/10170/game-of-stones",
+            "name": "Game of Stones",
+            "type": "Reality",
+            "language": "English",
+            "genres": [],
+            "status": "Ended",
+            "runtime": 60,
+            "averageRuntime": 60,
+            "premiered": "2014-02-28",
+            "ended": "2014-04-04",
+            "officialSite": "http://www.discovery.com/tv-shows/game-of-stones/",
+            "schedule": {
+                "time": "22:00",
+                "days": [
+                    "Friday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 50,
+            "network": {
+                "id": 66,
+                "name": "Discovery Channel",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                },
+                "officialSite": null
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 278339,
+                "imdb": "tt3780362"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/405/1013159.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/405/1013159.jpg"
+            },
+            "summary": "<p><b>Game of Stones</b> is about an \"extreme gem hunter\" named Don Kogen, who is described as a \"legend\" in the business. Kogen, who is CEO of Gem Guys Inc., specializes in rare stones \"from the most dangerous and lawless places on earth, racing the clock to be the first to each new find, always staying one step ahead of the competition.\"</p>",
+            "updated": 1650344365,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/10170"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/532362"
+                }
+            },
+            "$$hashKey": "object:1499"
+        }
+    },
+    {
+        "score": 0.9868972,
+        "show": {
+            "id": 5071,
+            "url": "https://www.tvmaze.com/shows/5071/game-of-silence",
+            "name": "Game of Silence",
+            "type": "Scripted",
+            "language": "English",
+            "genres": [
+                "Drama",
+                "Action",
+                "Crime"
+            ],
+            "status": "Ended",
+            "runtime": 60,
+            "averageRuntime": 60,
+            "premiered": "2016-04-12",
+            "ended": "2016-06-05",
+            "officialSite": "http://www.nbc.com/game-of-silence",
+            "schedule": {
+                "time": "22:00",
+                "days": [
+                    "Thursday"
+                ]
+            },
+            "rating": {
+                "average": 7.6
+            },
+            "weight": 49,
+            "network": {
+                "id": 1,
+                "name": "NBC",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                },
+                "officialSite": "https://www.nbc.com/"
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 295641,
+                "imdb": "tt4074374"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/50/125757.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/50/125757.jpg"
+            },
+            "summary": "<p>Five best friends have a dark secret they thought was buried 25 years ago, but they soon discover that you can't hide your past forever. A gripping new drama about friendship, love, revenge and the moral dilemma of how far one will go in the pursuit of justice.</p><p>Jackson Brooks is a successful attorney who seems to have it all. He's engaged to his boss, Marina, and he's on the fast track to becoming partner at his firm, but his world is turned upside down when his long-lost childhood friends unexpectedly reappear after 25 years.</p>",
+            "updated": 1577688630,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/5071"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/788284"
+                }
+            },
+            "$$hashKey": "object:1500"
+        }
+    },
+    {
+        "score": 0.975816,
+        "show": {
+            "id": 40739,
+            "url": "https://www.tvmaze.com/shows/40739/game-of-clones",
+            "name": "Game of Clones",
+            "type": "Reality",
+            "language": "English",
+            "genres": [
+                "Romance"
+            ],
+            "status": "Ended",
+            "runtime": 45,
+            "averageRuntime": 56,
+            "premiered": "2019-02-21",
+            "ended": "2019-04-04",
+            "officialSite": "http://www.mtv.com/shows/game-of-clones",
+            "schedule": {
+                "time": "21:00",
+                "days": [
+                    "Thursday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 40,
+            "network": {
+                "id": 22,
+                "name": "MTV",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                },
+                "officialSite": null
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 359306,
+                "imdb": "tt9808680"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/182/455309.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/182/455309.jpg"
+            },
+            "summary": "<p>MTV's most eligible reality stars are given the opportunity to date seven clones of their celebrity crush. They're forced to look beyond each identical face in hope of finding their perfect match. Through a series of compatibility tests, dates and more, each clone strives to stand out from the rest during this radical dating experience.</p>",
+            "updated": 1638027292,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/40739"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/1635765"
+                }
+            },
+            "$$hashKey": "object:1501"
+        }
+    },
+    {
+        "score": 0.9751092,
+        "show": {
+            "id": 54398,
+            "url": "https://www.tvmaze.com/shows/54398/game-of-talents",
+            "name": "Game of Talents",
+            "type": "Game Show",
+            "language": "English",
+            "genres": [],
+            "status": "Ended",
+            "runtime": 60,
+            "averageRuntime": 62,
+            "premiered": "2021-04-10",
+            "ended": "2021-05-22",
+            "officialSite": null,
+            "schedule": {
+                "time": "19:30",
+                "days": [
+                    "Saturday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 40,
+            "network": {
+                "id": 35,
+                "name": "ITV",
+                "country": {
+                    "name": "United Kingdom",
+                    "code": "GB",
+                    "timezone": "Europe/London"
+                },
+                "officialSite": "https://www.itv.com/"
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 400048,
+                "imdb": "tt14184678"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/310/777349.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/310/777349.jpg"
+            },
+            "summary": "<p>Competing in pairs, each contestant will be partnered with a celebrity teammate, as they try to figure out the surprising and often bizarre hidden talents of the eight mystery performers in each episode.</p><p>With big money prizes up for grabs if they get it right, will they be able to tell the fire eater from the footballer or the line dancer from the lion tamer, based solely on the performers' appearances and some intriguing clues?</p>",
+            "updated": 1644771254,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/54398"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/2082372"
+                }
+            },
+            "$$hashKey": "object:1502"
+        }
+    },
+    {
+        "score": 0.9590264,
+        "show": {
+            "id": 5354,
+            "url": "https://www.tvmaze.com/shows/5354/game-of-crowns",
+            "name": "Game of Crowns",
+            "type": "Reality",
+            "language": "English",
+            "genres": [],
+            "status": "Ended",
+            "runtime": 60,
+            "averageRuntime": 60,
+            "premiered": "2014-07-13",
+            "ended": "2014-09-11",
+            "officialSite": "http://www.bravotv.com/game-of-crowns",
+            "schedule": {
+                "time": "22:00",
+                "days": [
+                    "Sunday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 30,
+            "network": {
+                "id": 52,
+                "name": "Bravo",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                },
+                "officialSite": null
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": 42185,
+                "thetvdb": 282055,
+                "imdb": "tt3776022"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/314/786424.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/314/786424.jpg"
+            },
+            "summary": "<p><b>Game of Crowns</b> is a docu-series that follows six pageant wives competing on the \"Mrs.\" circuit whose lives revolve around glamour, perfection and winning at any cost. The cast includes Shelley Carbone, Lynne Diamante, Leha Guilmette, Lori-Ann Marchese, Susanna Paliotta, and Vanassa Sebastian. From trophy wives to pageant moms, these ultra-competitive ladies share their love of the game and will stop at nothing to win local and national pageants for beauty queen status. In each hour-long episode, the ladies will compete to snatch the spotlight while viewers watch their intense preparation that includes obsessing over the perfect swimsuit, working tirelessly with trainers and honing their interview skills with coaches -- all while being dedicated mothers and wives. How will the women settle their scores both on the stage and off?</p>",
+            "updated": 1620489742,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/5354"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/323994"
+                }
+            },
+            "$$hashKey": "object:1503"
+        }
+    },
+    {
+        "score": 0.9559877,
+        "show": {
+            "id": 16859,
+            "url": "https://www.tvmaze.com/shows/16859/game-of-arms",
+            "name": "Game of Arms",
+            "type": "Reality",
+            "language": "English",
+            "genres": [],
+            "status": "Ended",
+            "runtime": 60,
+            "averageRuntime": 60,
+            "premiered": "2014-02-25",
+            "ended": "2014-04-29",
+            "officialSite": null,
+            "schedule": {
+                "time": "22:00",
+                "days": [
+                    "Tuesday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 29,
+            "network": {
+                "id": 20,
+                "name": "AMC",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                },
+                "officialSite": null
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 278591,
+                "imdb": "tt3525596"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/56/141207.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/56/141207.jpg"
+            },
+            "summary": "<p><i>Game of Arms</i> is a look inside the raw and highly competitive world of American arm wrestling. The series follows the members of five regional arm wrestling clubs in Erie, PA, Kansas City, KS, New York, NY, Sacramento, CA and Baton Rouge, LA as they hit the road and wager their reputation, relationships and money for the sport. Game of Arms not only focuses on the technique and skill in this high-stakes world, but also the family, careers and personal struggles of each man outside of the sport. Each episode features a dramatic regional match, leading to a tournament finale where the entire cast will compete for prize money and bragging rights.</p>",
+            "updated": 1630840737,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/16859"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/775330"
+                }
+            },
+            "$$hashKey": "object:1504"
+        }
+    },
+    {
+        "score": 0.95097935,
+        "show": {
+            "id": 21155,
+            "url": "https://www.tvmaze.com/shows/21155/game-of-clones",
+            "name": "Game of Clones",
+            "type": "Reality",
+            "language": "English",
+            "genres": [
+                "Romance"
+            ],
+            "status": "Ended",
+            "runtime": 30,
+            "averageRuntime": 30,
+            "premiered": "2017-02-27",
+            "ended": "2017-03-24",
+            "officialSite": "http://www.channel4.com/programmes/game-of-clones",
+            "schedule": {
+                "time": "19:30",
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 27,
+            "network": {
+                "id": 41,
+                "name": "E4",
+                "country": {
+                    "name": "United Kingdom",
+                    "code": "GB",
+                    "timezone": "Europe/London"
+                },
+                "officialSite": null
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": null,
+                "imdb": null
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/100/251499.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/100/251499.jpg"
+            },
+            "summary": "<p>Singletons create their perfect match as an avatar and then are paired off with ten real prospective partners who have a similar look. The dopplegangers then enter a house with the singleton who sets them challenges and eliminates them based on their performance.</p>",
+            "updated": 1572490865,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/21155"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/1098675"
+                }
+            },
+            "$$hashKey": "object:1505"
+        }
+    },
+    {
+        "score": 0.94537055,
+        "show": {
+            "id": 15938,
+            "url": "https://www.tvmaze.com/shows/15938/game-of-homes",
+            "name": "Game of Homes",
+            "type": "Reality",
+            "language": "English",
+            "genres": [],
+            "status": "Running",
+            "runtime": 60,
+            "averageRuntime": 60,
+            "premiered": "2015-03-17",
+            "ended": null,
+            "officialSite": "http://www.wnetwork.com/shows/game-homes",
+            "schedule": {
+                "time": "22:00",
+                "days": [
+                    "Tuesday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 24,
+            "network": {
+                "id": 286,
+                "name": "W Network",
+                "country": {
+                    "name": "Canada",
+                    "code": "CA",
+                    "timezone": "America/Halifax"
+                },
+                "officialSite": null
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": null,
+                "imdb": null
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/53/133810.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/53/133810.jpg"
+            },
+            "summary": "<p>In <b>Game of Homes</b>, teams of skilled amateur home renovators compete for the chance to trade their skills for the prize of a lifetime. The teams save rundown houses that are marked to be torn down and revive them into dream homes. Each team must redo the houses room by room, as they cope with small budgets, tight deadlines and even tighter living spaces.</p><p>The action-based series pits each team's skill, ingenuity and teamwork against each other. In the finale, in addition to the judges, the public will cast their vote.</p><p>The winning couple each week receives a prize that is theirs to keep. In the dramatic finale, the team whose finished house is voted the best – WINS THEIR HOUSE AND A PLOT OF LAND TO PUT IT ON!</p>",
+            "updated": 1609960577,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/15938"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/803296"
+                }
+            },
+            "$$hashKey": "object:1506"
+        }
+    }
+]

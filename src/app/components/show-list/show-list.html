@@ -1,0 +1,29 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" ng-bind="appTitle"><span class="material-icons">
+            grade
+        </span></a>
+</nav>
+<div class="navbar navbar-light bg-light">
+    <input class="form-control mr-sm-2" ng-change="showListCtrl.startSearch()" ng-model="searchField" type="text"
+        name="searchField" id="searchField" placeholder="{{searchPlaceholder}}" />
+</div>
+<div id="searchedShows" ng-show="searchSuccess">
+    <label class="navbar navbar-expand-lg navbar-light bg-light" ng-bind="searchedShowsLabel"></label>
+    <div class="row">
+        <div class="col-md-2" ng-repeat="show in searchList">
+            <show-card></show-card>
+        </div>
+    </div>
+</div>
+
+<div ng-repeat="genre in genreFilteredShows">
+    <label data-toggle="collapse" data-target="#collapse{{genre.label}}"
+        class="btn navbar navbar-expand-lg navbar-light bg-light" ng-bind='genre.label'></label>
+    <div class="collapse" id="collapse{{genre.label}}">
+        <div class="row">
+            <div class="col-md-2" ng-repeat="show in genre.shows">
+                <show-card></show-card>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,87 @@
+<div class='container'>
+  <button type="button" class="btn btn-link" ui-sref='Home'>&lt; Back</button>
+  <h3 ng-bind='showDetail.name'></h3>
+  <div class='row'>
+
+    <div class='col-md-3'>
+      <div class="card" style="width: 15rem;">
+        <img class="card-img-top" src="{{showDetail.image.medium}}" alt={{showDetail.name}}>
+      </div>
+    </div>
+    <div class=col-md-6>
+      <p class="justify" ng-bind-html='showDetail.summary'></p>
+    </div>
+    <div class='col-md-3'>
+      <div class="card">
+        <div class="card-header">
+          <b>Show Info</b>
+        </div>
+        <div class="card-body">
+          <p><b>Language:</b><span ng-bind='showDetail.language'></span></p>
+          <p> </p>
+          <p><b>Show Type:</b><span ng-bind='showDetail.type'></span></p>
+          <p> </p>
+          <p><b>Schedule:</b><span ng-bind='showDetail.schedule.days.toString()'></span> at
+            <span ng-bind='showDetail.schedule.time'></span></p>
+          <p><b>Genres:</b><span ng-bind='showDetail.genres.toString()'></span></p>
+          <p><b>Rating:</b><span class="material-icons v-align">grade</span><span ng-bind='showDetail.rating.average'></span>/10</p>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row divide-top-margin">
+    <div class="col-md-12">
+
+      <ul class="nav nav-tabs mb-3" id="extra">
+        <li class="nav-item">
+          <a class="btn nav-link active" id="episode-tab" role="tab" data-target="#episodesContent"
+            data-toggle="tab">Episodes</a>
+        </li>
+        <li class="nav-item">
+          <a class="btn nav-link" id="cast-tab" data-target="#castContent" data-toggle="tab" role="tab">Cast</a>
+        </li>
+      </ul>
+
+      <div class="tab-content">
+        <div class="tab-pane fade show active" id="episodesContent" role="tabpanel" aria-labelledby="ex1-tab-1">
+          <div class="table-scroll">
+            <table class="table table-sm">
+              <thead>
+                <tr>
+                  <th scope="col">Season-Episode</th>
+                  <th scope="col">Date</th>
+                  <th scope="col">Name</th>
+                  <th scope="col">Rating</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr ng-repeat="episode in showEpisodeDetail">
+                  <th scope="row">{{episode.season}}-{{episode.number}}</th>
+                  <td>{{episode.airdate | date:'dd-MMM-yyyy'}}</td>
+                  <td ng-bind='episode.name'></td>
+                  <td><span class="material-icons v-align">grade</span><span ng-bind='episode.rating.average'></span></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+        <div class="tab-pane fade" id="castContent">
+          <div class="row">
+            <div class="col-md-2" ng-repeat="cast in showCastDetail">
+              <div class="card card-style">
+                <img class="card-img" src="{{cast.person.image.medium}}" alt="{{cast.person.name}}">
+                <div class="card-foot-sm">
+                  <p style="margin-top: 0px;"><b ng-bind='cast.person.name'></b></p>
+                  <p> as</p>
+                  <p><b ng-bind='cast.character.name'></b>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

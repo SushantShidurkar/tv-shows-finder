@@ -1,0 +1,601 @@
+[
+    {
+        "id": 169,
+        "url": "https://www.tvmaze.com/shows/169/breaking-bad",
+        "name": "Breaking Bad",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Crime",
+            "Thriller"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "2008-01-20",
+        "ended": "2019-10-11",
+        "officialSite": "http://www.amc.com/shows/breaking-bad",
+        "schedule": {
+            "time": "22:00",
+            "days": [
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": 9.2
+        },
+        "weight": 99,
+        "network": {
+            "id": 20,
+            "name": "AMC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": null
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 18164,
+            "thetvdb": 81189,
+            "imdb": "tt0903747"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2400.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2400.jpg"
+        },
+        "summary": "<p><b>Breaking Bad</b> follows protagonist Walter White, a chemistry teacher who lives in New Mexico with his wife and teenage son who has cerebral palsy. White is diagnosed with Stage III cancer and given a prognosis of two years left to live. With a new sense of fearlessness based on his medical prognosis, and a desire to secure his family's financial security, White chooses to enter a dangerous world of drugs and crime and ascends to power in this world. The series explores how a fatal diagnosis such as White's releases a typical man from the daily concerns and constraints of normal society and follows his transformation from mild family man to a kingpin of the drug trade.</p>",
+        "updated": 1650937411,
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/shows/169"
+            },
+            "previousepisode": {
+                "href": "https://api.tvmaze.com/episodes/2007806"
+            }
+        },
+        "$$hashKey": "object:458"
+    },
+    {
+        "id": 204,
+        "url": "https://www.tvmaze.com/shows/204/stargate-sg-1",
+        "name": "Stargate SG-1",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science-Fiction"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "1997-07-27",
+        "ended": "2008-07-29",
+        "officialSite": "http://stargate.mgm.com/view/series/1/index.html",
+        "schedule": {
+            "time": "20:00",
+            "days": [
+                "Friday"
+            ]
+        },
+        "rating": {
+            "average": 9.2
+        },
+        "weight": 98,
+        "network": {
+            "id": 16,
+            "name": "Syfy",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": null
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 5325,
+            "thetvdb": 72449,
+            "imdb": "tt0118480"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/3027.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3027.jpg"
+        },
+        "summary": "<p><b>Stargate SG-1</b> is a science fiction series based on the original film <i>Stargate</i>. It involves the team SG-1 going on various adventures to different alien worlds through Stargates. Throughout the series they encounter various alien threats and allies including but not limited to the Goa'uld and the Asgard.</p>",
+        "updated": 1649569551,
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/shows/204"
+            },
+            "previousepisode": {
+                "href": "https://api.tvmaze.com/episodes/13654"
+            }
+        },
+        "$$hashKey": "object:35"
+    },
+    {
+        "id": 180,
+        "url": "https://www.tvmaze.com/shows/180/firefly",
+        "name": "Firefly",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Adventure",
+            "Science-Fiction"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 64,
+        "premiered": "2002-09-20",
+        "ended": "2002-12-20",
+        "officialSite": null,
+        "schedule": {
+            "time": "20:00",
+            "days": [
+                "Friday"
+            ]
+        },
+        "rating": {
+            "average": 9.1
+        },
+        "weight": 99,
+        "network": {
+            "id": 4,
+            "name": "FOX",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.fox.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 3548,
+            "thetvdb": 78874,
+            "imdb": "tt0303461"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/2600.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2600.jpg"
+        },
+        "summary": "<p>Five hundred years in the future, a renegade crew aboard a small spacecraft tries to survive as they travel the unknown parts of the galaxy and evade warring factions as well as authority agents out to get them.</p>",
+        "updated": 1645916119,
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/shows/180"
+            },
+            "previousepisode": {
+                "href": "https://api.tvmaze.com/episodes/13005"
+            }
+        },
+        "$$hashKey": "object:36"
+    },
+    {
+        "id": 82,
+        "url": "https://www.tvmaze.com/shows/82/game-of-thrones",
+        "name": "Game of Thrones",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Adventure",
+            "Fantasy"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 61,
+        "premiered": "2011-04-17",
+        "ended": "2019-05-19",
+        "officialSite": "http://www.hbo.com/game-of-thrones",
+        "schedule": {
+            "time": "21:00",
+            "days": [
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": 9
+        },
+        "weight": 99,
+        "network": {
+            "id": 8,
+            "name": "HBO",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.hbo.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 24493,
+            "thetvdb": 121361,
+            "imdb": "tt0944947"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/190/476117.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/190/476117.jpg"
+        },
+        "summary": "<p>Based on the bestselling book series <i>A Song of Ice and Fire</i> by George R.R. Martin, this sprawling new HBO drama is set in a world where summers span decades and winters can last a lifetime. From the scheming south and the savage eastern lands, to the frozen north and ancient Wall that protects the realm from the mysterious darkness beyond, the powerful families of the Seven Kingdoms are locked in a battle for the Iron Throne. This is a story of duplicity and treachery, nobility and honor, conquest and triumph. In the <b>Game of Thrones</b>, you either win or you die.</p>",
+        "updated": 1646770498,
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/shows/82"
+            },
+            "previousepisode": {
+                "href": "https://api.tvmaze.com/episodes/1623968"
+            }
+        },
+        "$$hashKey": "object:37"
+    },
+    {
+        "id": 179,
+        "url": "https://www.tvmaze.com/shows/179/the-wire",
+        "name": "The Wire",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "2002-06-02",
+        "ended": "2008-03-09",
+        "officialSite": "http://www.hbo.com/the-wire",
+        "schedule": {
+            "time": "21:00",
+            "days": [
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": 9
+        },
+        "weight": 95,
+        "network": {
+            "id": 8,
+            "name": "HBO",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.hbo.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 6296,
+            "thetvdb": 79126,
+            "imdb": "tt0306414"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/2527.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2527.jpg"
+        },
+        "summary": "<p>The first season of <b>The Wire</b> (2002) concentrated on the often-futile efforts of police to infiltrate a West Baltimore drug ring headed by Avon Barksdale and his lieutenant, Stringer Bell. In Seasons Two and Three, as the Barksdale investigation escalated, new storylines involving pressures on the working class and the city's political leadership were introduced. Season Four focused on the stories of several young boys in the public school system, struggling with problems at home and the lure of the corner - set against the rise of a new drug empire in West Baltimore and a new Mayor in City Hall. The fifth and final season of <i>The Wire</i> centers on the media's role in addressing - or failing to address - the fundamental political, economic and social realities depicted over the course of the series, while also resolving storylines of the numerous characters woven throughout the narrative arc of the show.</p>",
+        "updated": 1644603937,
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/shows/179"
+            },
+            "previousepisode": {
+                "href": "https://api.tvmaze.com/episodes/12969"
+            }
+        },
+        "$$hashKey": "object:759"
+    },
+    {
+        "id": 216,
+        "url": "https://www.tvmaze.com/shows/216/rick-and-morty",
+        "name": "Rick and Morty",
+        "type": "Animation",
+        "language": "English",
+        "genres": [
+            "Comedy",
+            "Adventure",
+            "Science-Fiction"
+        ],
+        "status": "Running",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "2013-12-02",
+        "ended": null,
+        "officialSite": "http://www.adultswim.com/videos/rick-and-morty",
+        "schedule": {
+            "time": "23:00",
+            "days": [
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": 9
+        },
+        "weight": 99,
+        "network": {
+            "id": 10,
+            "name": "Adult Swim",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": null
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 33381,
+            "thetvdb": 275274,
+            "imdb": "tt2861424"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/3603.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3603.jpg"
+        },
+        "summary": "<p>Rick is a mentally gifted, but sociopathic and alcoholic scientist and a grandfather to Morty; an awkward, impressionable, and somewhat spineless teenage boy. Rick moves into the family home of Morty, where he immediately becomes a bad influence.</p>",
+        "updated": 1638819661,
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/shows/216"
+            },
+            "previousepisode": {
+                "href": "https://api.tvmaze.com/episodes/2130800"
+            }
+        },
+        "$$hashKey": "object:38"
+    },
+    {
+        "id": 32,
+        "url": "https://www.tvmaze.com/shows/32/fargo",
+        "name": "Fargo",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Comedy",
+            "Crime"
+        ],
+        "status": "Running",
+        "runtime": 60,
+        "averageRuntime": 68,
+        "premiered": "2014-04-15",
+        "ended": null,
+        "officialSite": "http://www.fxnetworks.com/fargo",
+        "schedule": {
+            "time": "22:00",
+            "days": [
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": 8.9
+        },
+        "weight": 99,
+        "network": {
+            "id": 13,
+            "name": "FX",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": null
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 35276,
+            "thetvdb": 269613,
+            "imdb": "tt2802850"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/267/669639.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/267/669639.jpg"
+        },
+        "summary": "<p><b>Fargo </b>is a seasonal anthology crime drama with some dark comical elements, inspired by the film <i>Fargo</i> written by the Coen brothers. Each season follows a new case and new characters, all entrenched in the trademark humor, murder and \"Minnesota nice\" that has made the film an enduring classic.</p>",
+        "updated": 1643098234,
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/shows/32"
+            },
+            "previousepisode": {
+                "href": "https://api.tvmaze.com/episodes/1922899"
+            }
+        },
+        "$$hashKey": "object:260"
+    },
+    {
+        "id": 118,
+        "url": "https://www.tvmaze.com/shows/118/house",
+        "name": "House",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Medical"
+        ],
+        "status": "Ended",
+        "runtime": 40,
+        "averageRuntime": 60,
+        "premiered": "2004-11-16",
+        "ended": "2012-05-21",
+        "officialSite": null,
+        "schedule": {
+            "time": "21:00",
+            "days": [
+                "Monday"
+            ]
+        },
+        "rating": {
+            "average": 8.9
+        },
+        "weight": 98,
+        "network": {
+            "id": 4,
+            "name": "FOX",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.fox.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 3908,
+            "thetvdb": 73255,
+            "imdb": "tt0412142"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/357/894990.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/357/894990.jpg"
+        },
+        "summary": "<p>Sink your teeth into meaty drama and intrigue with <b>House</b>, FOX's take on mystery, where the villain is a medical malady and the hero is an irreverent, controversial doctor who trusts no one, least of all his patients.</p>",
+        "updated": 1652167385,
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/shows/118"
+            },
+            "previousepisode": {
+                "href": "https://api.tvmaze.com/episodes/9206"
+            }
+        },
+        "$$hashKey": "object:760"
+    },
+    {
+        "id": 206,
+        "url": "https://www.tvmaze.com/shows/206/stargate-atlantis",
+        "name": "Stargate Atlantis",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science-Fiction"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "2004-07-16",
+        "ended": "2009-01-09",
+        "officialSite": "http://stargate.mgm.com/view/series/2/index.html",
+        "schedule": {
+            "time": "21:00",
+            "days": [
+                "Friday"
+            ]
+        },
+        "rating": {
+            "average": 8.9
+        },
+        "weight": 97,
+        "network": {
+            "id": 16,
+            "name": "Syfy",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": null
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 5324,
+            "thetvdb": 70851,
+            "imdb": "tt0374455"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/3059.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3059.jpg"
+        },
+        "summary": "<p>Atlantis, built thousands of years ago by the highly evolved Ancients, is home base for an elite expedition from Earth. These courageous military commanders and scientists leap through the city's Stargate to explore the wondrous Pegasus galaxy and battle the treacherous Wraith, who seek control of Atlantis -- at any cost.</p>",
+        "updated": 1651965130,
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/shows/206"
+            },
+            "previousepisode": {
+                "href": "https://api.tvmaze.com/episodes/13782"
+            }
+        },
+        "$$hashKey": "object:39"
+    },
+    {
+        "id": 2,
+        "url": "https://www.tvmaze.com/shows/2/person-of-interest",
+        "name": "Person of Interest",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Action",
+            "Crime",
+            "Science-Fiction"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "2011-09-22",
+        "ended": "2016-06-21",
+        "officialSite": "http://www.cbs.com/shows/person_of_interest/",
+        "schedule": {
+            "time": "22:00",
+            "days": [
+                "Tuesday"
+            ]
+        },
+        "rating": {
+            "average": 8.8
+        },
+        "weight": 99,
+        "network": {
+            "id": 2,
+            "name": "CBS",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.cbs.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 28376,
+            "thetvdb": 248742,
+            "imdb": "tt1839578"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/163/407679.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/163/407679.jpg"
+        },
+        "summary": "<p>You are being watched. The government has a secret system, a machine that spies on you every hour of every day. I know because I built it. I designed the Machine to detect acts of terror but it sees everything. Violent crimes involving ordinary people. People like you. Crimes the government considered \"irrelevant\". They wouldn't act so I decided I would. But I needed a partner. Someone with the skills to intervene. Hunted by the authorities, we work in secret. You'll never find us. But victim or perpetrator, if your number is up, we'll find you.</p>",
+        "updated": 1631565378,
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/shows/2"
+            },
+            "previousepisode": {
+                "href": "https://api.tvmaze.com/episodes/659372"
+            }
+        },
+        "$$hashKey": "object:104"
+    }
+]

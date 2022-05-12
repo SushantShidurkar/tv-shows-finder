@@ -1,0 +1,496 @@
+[
+    {
+      "id": 4952,
+      "url": "https://www.tvmaze.com/episodes/4952/game-of-thrones-1x01-winter-is-coming",
+      "name": "Winter is Coming",
+      "season": 1,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2011-04-17",
+      "airtime": "21:00",
+      "airstamp": "2011-04-18T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2668.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2668.jpg"
+      },
+      "summary": "<p>Lord Eddard Stark, ruler of the North, is summoned to court by his old friend, King Robert Baratheon, to serve as the King's Hand. Eddard reluctantly agrees after learning of a possible threat to the King's life. Eddard's bastard son Jon Snow must make a painful decision about his own future, while in the distant east Viserys Targaryen plots to reclaim his father's throne, usurped by Robert, by selling his sister in marriage.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/4952"
+        }
+      },
+      "$$hashKey": "object:89"
+    },
+    {
+      "id": 4953,
+      "url": "https://www.tvmaze.com/episodes/4953/game-of-thrones-1x02-the-kingsroad",
+      "name": "The Kingsroad",
+      "season": 1,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2011-04-24",
+      "airtime": "21:00",
+      "airstamp": "2011-04-25T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2669.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2669.jpg"
+      },
+      "summary": "<p>An incident on the Kingsroad threatens Eddard and Robert's friendship. Jon and Tyrion travel to the Wall, where they discover that the reality of the Night's Watch may not match the heroic image of it.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/4953"
+        }
+      },
+      "$$hashKey": "object:90"
+    },
+    {
+      "id": 4954,
+      "url": "https://www.tvmaze.com/episodes/4954/game-of-thrones-1x03-lord-snow",
+      "name": "Lord Snow",
+      "season": 1,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2011-05-01",
+      "airtime": "21:00",
+      "airstamp": "2011-05-02T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2671.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2671.jpg"
+      },
+      "summary": "<p>Jon Snow attempts to find his place amongst the Night's Watch. Eddard and his daughters arrive at King's Landing.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/4954"
+        }
+      },
+      "$$hashKey": "object:91"
+    },
+    {
+      "id": 4955,
+      "url": "https://www.tvmaze.com/episodes/4955/game-of-thrones-1x04-cripples-bastards-and-broken-things",
+      "name": "Cripples, Bastards, and Broken Things",
+      "season": 1,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2011-05-08",
+      "airtime": "21:00",
+      "airstamp": "2011-05-09T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2673.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2673.jpg"
+      },
+      "summary": "<p>Tyrion stops at Winterfell on his way home and gets a frosty reception from Robb Stark. Eddard's investigation into the death of his predecessor gets underway.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/4955"
+        }
+      },
+      "$$hashKey": "object:92"
+    },
+    {
+      "id": 4966,
+      "url": "https://www.tvmaze.com/episodes/4966/game-of-thrones-2x05-the-ghost-of-harrenhal",
+      "name": "The Ghost of Harrenhal",
+      "season": 2,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2012-04-29",
+      "airtime": "21:00",
+      "airstamp": "2012-04-30T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/3178.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3178.jpg"
+      },
+      "summary": "<p>Confusion rages in the Stormlands in the wake of a devastating reversal. Catelyn must flee with a new ally, whilst Littlefinger sees an opportunity in the chaos. Theon seeks to prove himself to his father in battle. Arya receives a promise from the enigmatic Jaqen H'ghar. The Night's Watch arrives at the Fist of the First Men. Daenerys Targaryen receives a marriage proposal.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/4966"
+        }
+      },
+      "$$hashKey": "object:103"
+    },
+    {
+      "id": 4967,
+      "url": "https://www.tvmaze.com/episodes/4967/game-of-thrones-2x06-the-old-gods-and-the-new",
+      "name": "The Old Gods and the New",
+      "season": 2,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2012-05-06",
+      "airtime": "21:00",
+      "airstamp": "2012-05-07T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/3180.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3180.jpg"
+      },
+      "summary": "<p>Arya has a surprise visitor; Dany vows to take what is hers; Joffrey meets his subjects; Qhorin gives Jon a chance to prove himself.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/4967"
+        }
+      },
+      "$$hashKey": "object:104"
+    },
+    {
+      "id": 4968,
+      "url": "https://www.tvmaze.com/episodes/4968/game-of-thrones-2x07-a-man-without-honor",
+      "name": "A Man Without Honor",
+      "season": 2,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2012-05-13",
+      "airtime": "21:00",
+      "airstamp": "2012-05-14T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/3192.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3192.jpg"
+      },
+      "summary": "<p>Jaime meets a relative; Theon hunts; Dany receives an invitation.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/4968"
+        }
+      },
+      "$$hashKey": "object:105"
+    },
+    {
+      "id": 4969,
+      "url": "https://www.tvmaze.com/episodes/4969/game-of-thrones-2x08-the-prince-of-winterfell",
+      "name": "The Prince of Winterfell",
+      "season": 2,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2012-05-20",
+      "airtime": "21:00",
+      "airstamp": "2012-05-21T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/3194.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3194.jpg"
+      },
+      "summary": "<p>Theon holds the fort; Arya calls in her debt with Jaqen; Robb is betrayed; Stannis and Davos approach their destination.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/4969"
+        }
+      },
+      "$$hashKey": "object:106"
+    },
+    {
+      "id": 4970,
+      "url": "https://www.tvmaze.com/episodes/4970/game-of-thrones-2x09-blackwater",
+      "name": "Blackwater",
+      "season": 2,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2012-05-27",
+      "airtime": "21:00",
+      "airstamp": "2012-05-28T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 9.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/3196.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3196.jpg"
+      },
+      "summary": "<p>A massive battle rages for control of King's Landing and the Iron Throne.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/4970"
+        }
+      },
+      "$$hashKey": "object:107"
+    },
+    {
+      "id": 4987,
+      "url": "https://www.tvmaze.com/episodes/4987/game-of-thrones-4x06-the-laws-of-gods-and-men",
+      "name": "The Laws of Gods and Men",
+      "season": 4,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2014-05-11",
+      "airtime": "21:00",
+      "airstamp": "2014-05-12T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 9.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2588.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2588.jpg"
+      },
+      "summary": "<p>Stannis and Davos set sail with a new strategy. Dany meets with supplicants. Tyrion faces down his father in the throne room.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/4987"
+        }
+      },
+      "$$hashKey": "object:124"
+    },
+    {
+      "id": 162186,
+      "url": "https://www.tvmaze.com/episodes/162186/game-of-thrones-5x10-mothers-mercy",
+      "name": "Mother's Mercy",
+      "season": 5,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2015-06-14",
+      "airtime": "21:00",
+      "airstamp": "2015-06-15T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/12/30012.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/12/30012.jpg"
+      },
+      "summary": "<p>Cersei seeks forgiveness; Jon faces a new challenge; Arya plots to cross a name off her list; Tyrion sees a familiar face; and Daenerys finds herself surrounded by strangers.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/162186"
+        }
+      },
+      "$$hashKey": "object:138"
+    },
+    {
+      "id": 560813,
+      "url": "https://www.tvmaze.com/episodes/560813/game-of-thrones-6x01-the-red-woman",
+      "name": "The Red Woman",
+      "season": 6,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2016-04-24",
+      "airtime": "21:00",
+      "airstamp": "2016-04-25T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/56/142371.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/56/142371.jpg"
+      },
+      "summary": "<p>Jon Snow is dead. Daenerys meets a strong man. Cersei sees her daughter again.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/560813"
+        }
+      },
+      "$$hashKey": "object:139"
+    },
+    {
+      "id": 664672,
+      "url": "https://www.tvmaze.com/episodes/664672/game-of-thrones-6x02-home",
+      "name": "Home",
+      "season": 6,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2016-05-01",
+      "airtime": "21:00",
+      "airstamp": "2016-05-02T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/56/142372.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/56/142372.jpg"
+      },
+      "summary": "<p>Bran trains with the Three-Eyed Raven. In King's Landing, Jaime advises Tommen. Tyrion demands good news, but has to make his own. At Castle Black, the Night's Watch stands behind Thorne. Ramsay Bolton proposes a plan, and Balon Greyjoy entertains other proposals.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/664672"
+        }
+      },
+      "$$hashKey": "object:140"
+    },
+    {
+      "id": 729575,
+      "url": "https://www.tvmaze.com/episodes/729575/game-of-thrones-6x10-the-winds-of-winter",
+      "name": "The Winds of Winter",
+      "season": 6,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2016-06-26",
+      "airtime": "21:00",
+      "airstamp": "2016-06-27T01:00:00+00:00",
+      "runtime": 69,
+      "rating": {
+        "average": 9.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/63/157920.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/63/157920.jpg"
+      },
+      "summary": "<p>Alliances are made, the High Sparrow is holding trials at King's Landing, Daenerys is sailing for the Seven Kingdoms and a new King of the North is crowned.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/729575"
+        }
+      },
+      "$$hashKey": "object:148"
+    },
+    {
+      "id": 937256,
+      "url": "https://www.tvmaze.com/episodes/937256/game-of-thrones-7x01-dragonstone",
+      "name": "Dragonstone",
+      "season": 7,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2017-07-16",
+      "airtime": "21:00",
+      "airstamp": "2017-07-17T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/120/302038.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/120/302038.jpg"
+      },
+      "summary": "<p>Jon organizes the defense of the North. Cersei tries to even the odds. Daenerys comes home.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/937256"
+        }
+      },
+      "$$hashKey": "object:149"
+    },
+    {
+      "id": 1221410,
+      "url": "https://www.tvmaze.com/episodes/1221410/game-of-thrones-7x02-stormborn",
+      "name": "Stormborn",
+      "season": 7,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2017-07-23",
+      "airtime": "21:00",
+      "airstamp": "2017-07-24T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/120/302047.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/120/302047.jpg"
+      },
+      "summary": "<p>Daenerys receives an unexpected visitor. Jon faces a revolt. Tyrion plans the conquest of Westeros.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1221410"
+        }
+      },
+      "$$hashKey": "object:150"
+    },
+    {
+      "id": 1221411,
+      "url": "https://www.tvmaze.com/episodes/1221411/game-of-thrones-7x03-the-queens-justice",
+      "name": "The Queen's Justice",
+      "season": 7,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2017-07-30",
+      "airtime": "21:00",
+      "airstamp": "2017-07-31T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/122/306938.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/122/306938.jpg"
+      },
+      "summary": "<p>Daenerys holds court. Cersei returns a gift. Jaime learns from his mistakes.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1221411"
+        }
+      },
+      "$$hashKey": "object:151"
+    },
+    {
+      "id": 1221412,
+      "url": "https://www.tvmaze.com/episodes/1221412/game-of-thrones-7x04-the-spoils-of-war",
+      "name": "The Spoils of War",
+      "season": 7,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2017-08-06",
+      "airtime": "21:00",
+      "airstamp": "2017-08-07T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 9.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/123/307677.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/123/307677.jpg"
+      },
+      "summary": "<p>Arya gets to the final destination. Daenerys takes it upon herself to strike back.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1221412"
+        }
+      },
+      "$$hashKey": "object:152"
+    },
+    {
+      "id": 1623968,
+      "url": "https://www.tvmaze.com/episodes/1623968/game-of-thrones-8x06-the-iron-throne",
+      "name": "The Iron Throne",
+      "season": 8,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2019-05-19",
+      "airtime": "21:00",
+      "airstamp": "2019-05-20T01:00:00+00:00",
+      "runtime": 80,
+      "rating": {
+        "average": 5.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/198/495648.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/198/495648.jpg"
+      },
+      "summary": "<p>In the aftermath of the devastating attack on King's Landing, Daenerys must face the survivors.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1623968"
+        }
+      },
+      "$$hashKey": "object:161"
+    }
+  ]

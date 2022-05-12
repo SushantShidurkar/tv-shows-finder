@@ -1,0 +1,7 @@
+<div class="card card-style btn" ui-sref='Show({id: showDetails.id})'>
+  <img class="card-img-top" src="{{showDetails.image.medium}}" alt="{{showDetails.name}}">
+  <div class="card-body card-foot">
+    <h5 class="card-text" ng-bind='showDetails.name'></h5>
+    <span class="material-icons">grade</span><label ng-bind='showDetails.rating.average'></label>
+  </div>
+</div>
